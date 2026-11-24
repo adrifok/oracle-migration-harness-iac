@@ -1,0 +1,4 @@
+project_name      = "migration-harness"
+aws_region        = "us-east-1"
+ssh_public_key    = "ssh-ed25519 AAAA... you@host"
+my_public_ip_cidr = "1.2.3.4/32"
